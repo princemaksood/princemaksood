@@ -2,3 +2,9 @@ welcome to maksood kitchen
 Kheer
 pasta 
 chicken fry 
+
+pizaa
+panner
+This is from the branch
+Final Master Branch
+Hence mergin is completed :)
